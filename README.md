@@ -26,7 +26,7 @@ This list is updated frequently.
   * [Casper the Friendly Ghost: A Correct by Construction Blockchain Consensus Protocol](https://github.com/ethereum/research/blob/master/papers/CasperTFG/CasperTFG.pdf) by Vlad Zamfir (Nov 2017)
   *  [Casper the Friendly Finality Gadget: Basic Structure](https://github.com/ethereum/research/blob/master/papers/other_casper/casper_basic_structure.pdf) by Vitalik Buterin (Aug 2017)
   * [Casper 101](https://medium.com/@jonchoi/ethereum-casper-101-7a851a4f1eb0) - A helpful in-depth explanation of what Casper is, and how it works.
-* **Plasma** - Plasma is a proposed technique
+* **Plasma**
   * [Plasma: Scalable Autonomous Smart Contracts](https://plasma.io/plasma.pdf) (Aug 2017)
   * [Plasma in 10 minutes](https://medium.com/chain-cloud-company-blog/plasma-in-10-minutes-c856da94e339)
 * **Privacy techniques for blockchains**
