@@ -48,12 +48,12 @@ Layer 2
   * [Analyzing Token Sale Models](http://vitalik.ca/general/2017/06/09/sales.html) by Vitalik Buterin (2017)
   * [Interactive Coin Offerings](https://drive.google.com/viewerng/viewer?url=https://people.cs.uchicago.edu/~teutsch/papers/ico.pdf) by Vitalik Buterin & Jason Teutsch
   * [Interactive Coin Offerings: A protocol explained](https://medium.com/truebit/interactive-coin-offering-a-protocol-explained-267065ef3819) by Robbie Bent
-* **Cryptoeconomic token design examples**
+* **Cryptoeconomic token design**
   * [Augur: How does REP work?](http://blog.augur.net/faq/how-does-reputation-rep-work/)
   * [Introducing the Gnosis Tokens (GNO and WIZ)](https://blog.gnosis.pm/introducing-the-gnosis-tokens-gno-and-wiz-5295a65c3822) by Matt Liston
+  * [Cryptocurrency incentives and corporate structures](http://blog.eladgil.com/2017/10/cryptocurrency-incentives-and-corporate.html) by Elad Gil
 * **Valuing tokens & other crypto assets**
   * [On medium of exchange token valuations](http://vitalik.ca/general/2017/10/17/moe.html) by Vitalik Buterin
-  * [Cryptocurrency incentives and corporate structures](http://blog.eladgil.com/2017/10/cryptocurrency-incentives-and-corporate.html) by Elad Gil
   * [Cryptoasset valuations](http://metastablecapital.com/cryptoasset-analysis/) by Lucas Ryan
 * **Legal Frameworks for Token Sales**
   * [The SAFT Project: Toward a compliant token sale framework](https://saftproject.com/static/SAFT-Project-Whitepaper.pdf) by  Protocol Labs & Cooley Law
