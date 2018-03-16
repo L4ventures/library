@@ -1,6 +1,6 @@
 # L4-library
 
-Welcome to the [L4](l4v.io) Library, a collection of online and offline material that reflects the interests and learning resources of L4. 
+Welcome to the [L4](https://l4v.io) Library, a collection of online and offline material that reflects the interests and learning resources of L4. 
 
 The first several sections are organized by topic. The links in each section are what we consider essential reading. The last section of the library is a list of physical materials available in the L4 offices in Toronto, which cover many diverse topics. This physical library grows as we grow: every new person to join the L4 community chooses a book to add. 
 
@@ -79,12 +79,16 @@ Layer 2
  * [On anti-pre-revelation Games](https://blog.ethereum.org/2015/08/28/on-anti-pre-revelation-games/) by Vitalik Buterin
  
  ## Governance of blockchain protocols
+ * [Blockchain Governance: Programming Our Future](https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74) by Fred Ehrsam
+ * [Notes on Blockchain Governance](https://vitalik.ca/general/2017/12/17/voting.html) By Vitalik Buterin
  
  ## Social & business context
  
  ## Startups, technology, and entrepreneurship
  
  ## General blockchain beginner material
+ * [Blockchain 101 a visual demo [video]](https://www.youtube.com/watch?v=_160oMzblY8)
+ * [How does a Blockchain work | Simply Explained [video]](https://www.youtube.com/watch?v=SSo_EIwHSd4)
  
  ## L4's physical library
 
